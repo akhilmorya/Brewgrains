@@ -158,7 +158,7 @@ export default function SignupScreenComponent({ props }) {
           }}
           getDefaultValue={() => ''}
           query={{
-            key: 'AIzaSyBVfgqASjM86S5b0c58ASUCT5u6nQ2rGdc', //  AIzaSyCFVDbn4hLNghDB5EwgdOJJxbp-LkF83Hc,
+            key: '', //  AIzaSyCFVDbn4hLNghDB5EwgdOJJxbp-LkF83Hc,
             language: 'en', // language of the results
             types: '(cities)' // default: 'geocode'
           }}
