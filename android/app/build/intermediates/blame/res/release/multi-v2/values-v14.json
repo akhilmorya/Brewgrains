@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/macmini33/Documents/Projects/BoilerPlateTemplate/new/rn_boilerplate/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/macmini33/.gradle/caches/transforms-2/files-2.1/76c2455e762dceec35e33c872c6bfff8/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}

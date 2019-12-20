@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>580318158991-9bbcovhnoomqat9rvkv8av7kqlo59eim.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.580318158991-9bbcovhnoomqat9rvkv8av7kqlo59eim</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>580318158991-5qeho8ueommq5s3587qhctg7vn4h400i.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAvAR_XeKSABuFm2FoxrEHf14FFDHr98M4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>580318158991</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.systango.brewgrains</string>
+	<key>PROJECT_ID</key>
+	<string>rnboilerplate60</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rnboilerplate60.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:580318158991:ios:72dfd4ba629c170946d0fa</string>
+	<key>DATABASE_URL</key>
+	<string>https://rnboilerplate60.firebaseio.com</string>
+</dict>
+</plist>

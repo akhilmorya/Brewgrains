@@ -1,0 +1,7 @@
+#Mon Nov 11 17:32:34 IST 2019
+base.0=/Users/macmini33/Documents/Projects/BoilerPlateTemplate/new/rn_boilerplate/android/app/build/intermediates/transforms/dexMerger/release/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/macmini33/Documents/Projects/BoilerPlateTemplate/new/rn_boilerplate/android/app/build/intermediates/transforms/dexMerger/release/0
